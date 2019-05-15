@@ -1,0 +1,24 @@
+G:\camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+G:\camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\camera\WindowsApplication1\WindowsApplication1\bin\Debug\DirectShowLib-2005.dll
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\bin\Debug\DirectShowLib-2005.dll
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmcamera.resources
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\vb.net camera\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
