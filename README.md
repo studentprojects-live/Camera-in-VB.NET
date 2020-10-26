@@ -5,4 +5,4 @@ VB.NET project to capture images using a Webcam. This I got after searching in t
 This works in DirectShowLib
 
 For more information visit:
-https://www.studentprojectguide.com/vb-net/webcam-in-vb-net/
+https://www.studentprojects.live/studentprojectreport/projectreport/webcam-in-vb-net/
